@@ -1,16 +1,16 @@
-# 임덕규
-![이미지](IMG_8020.jpg)
-### 전공: 경영학부
-### 프로그래밍 경험: 파이썬을 활용한 웹 크롤링
-### 프로젝트 경험: 외국인 유학생들을 위한 커뮤니티 플랫폼 기획
-### 관심분야: 금융권, 핀테크
+## Hello, World! 👋🏻
 
----
+I'm Deokgyu IM   
 
-### MBTI: ENFP
-### 가치관: 다양한 색깔을 가진 사람들과 조금 더 나은 세상을 만들어 가는 과정, 그리고 그 이야기를 나누는 것을 좋아합니다.
-### 취미: 수영, 야구경기 관람
+Based on Gwangju, Korea   
 
---- 
-### 저의 소소한 이야기를 담은 SNS 입니다. 잠깐 쉬다 가세요 :-)
-### SNS: [덕구 log 블로그](https://m.blog.naver.com/imdg3530), [유튜브](https://www.youtube.com/@deokgyuim9785)
+I've studied business management at Chonnam National University   
+
+## Currently learning
+
+💻 learning python and algorithm
+
+
+## Social Media
+
+### [덕구 log 블로그](https://m.blog.naver.com/imdg3530), [Youtube](https://www.youtube.com/@deokgyuim9785)
